@@ -1,5 +1,5 @@
 # Tolkien UI (Light)
-A light, relaxing custom UI built from scratch including custom icons, hotbar, sidebar and more!
+A light, relaxing 'Tolkien' inspired custom UI built from scratch including custom icons, hotbar, sidebar and more!
 
 ## Compatibility
 Foundry version V10+

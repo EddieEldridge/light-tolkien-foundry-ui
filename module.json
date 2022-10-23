@@ -1,7 +1,7 @@
 {
-  "id": "tolkienui",
-  "title": "Tolkien UI",
-  "description": "A Tolkien themed UI with lots of wood and warm themes.",
+  "id": "tolkienuilight",
+  "title": "Tolkien UI (Light)",
+  "description": "A light, relaxing 'Tolkien' inspired custom UI built from scratch including custom icons, hotbar, sidebar and more!",
   "version": "This is auto replaced",
   "library": "false",
   "manifestPlusVersion": "1.2.0",
