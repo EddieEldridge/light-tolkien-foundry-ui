@@ -1,5 +1,5 @@
 # Tolkien UI (Light)
-A light, relaxing 'Tolkien' inspired custom UI built from scratch including custom icons, hotbar, sidebar and more!
+A light 'Tolkien' inspired custom UI built from scratch including custom icons, hotbar, sidebar and more!
 
 ## Compatibility
 Foundry version V10+
@@ -10,9 +10,9 @@ Then you may copy this url https://github.com/EddieEldridge/tolkien-foundry-ui/r
 
 ## **Screenshots**
 
-![alt text](https://i.imgur.com/qwl1LGa.png)
-![](https://i.imgur.com/mYVJiHB.png)
-![](https://i.imgur.com/fzqDoVP.png)![](https://i.imgur.com/Ka0KzTf.png)
+![image](https://user-images.githubusercontent.com/22448079/197409682-03a57e96-6097-491b-b17a-fee492321da9.png)
+![image](https://user-images.githubusercontent.com/22448079/197409695-1ba823b0-8bc6-4243-8413-045fc9908037.png)
+
 
 ## Recommended Modules
 - Monk's Scene Navigation
